@@ -159,3 +159,5 @@ sharethrough.com, 4568, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, 5828, RESELLER, d53b998a7bd4ecd2
 zetaglobal.net, 525, RESELLER
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
